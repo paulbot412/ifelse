@@ -16,6 +16,7 @@ public class    AppMain {
         Adoptator Adoptator = new Adoptator();
         System.out.println(Adoptator.Name);
 
+
         ActivitateDeRecreere ActRecr =new ActivitateDeRecreere();
 
         System.out.println(ActRecr.Nume);
